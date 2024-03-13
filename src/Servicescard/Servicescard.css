@@ -1,0 +1,56 @@
+.mainCardDiv{
+    background-color: #ffcc2a;
+    margin-top: 0;
+    text-align: center;
+}
+
+
+.cardDiv{
+    background-color: #0b0401;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px hsla(0,0%,0%,0.1);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    max-width: 270px;
+}
+
+.cardDiv .cardBannerImg{
+    max-height:100%; 
+    max-width:100%;
+    margin-bottom: 10px;
+}
+
+.cardDiv .cardTitle{
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    color: #ffcc2a;
+}
+
+.cardDiv .cardTitleBigNames{
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    color: #ffcc2a;
+}
+
+.cardDiv .cardDesp{
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin: 10;
+    color: #ffcc2a;
+    opacity: 0.7;
+}
+
+.cardDiv .cardBtn{
+    background-color: #ffcc2a;
+    border-radius: 5px;
+    font-size: large;
+    color: #0b0401;
+    border-color: #ffcc2a;
+    padding: 10px;
+    cursor: pointer;
+}

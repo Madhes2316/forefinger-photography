@@ -1,0 +1,36 @@
+.contentsMainDiv{
+    background-color: #0b0401;
+    position: relative;
+    text-align: center;
+}
+
+.ffpTitlediv{
+    margin-top: 0;
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: rgba(11, 4, 1, 0.3);
+}
+
+.ffpTitleText{
+    color: #ffcc2a;
+    font-family: 'poppins';
+    padding-left: 37px;
+}
+
+.firstBannerImg{
+    max-width: 100%;
+}
+
+.preWedPromo{
+    max-width: 100%;
+}
+
+.welcomeTextffp {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffcc2a;
+    font-size:xx-large;
+  }

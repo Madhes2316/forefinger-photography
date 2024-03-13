@@ -1,0 +1,42 @@
+.topNavBar{
+    overflow: hidden;
+    background-color:#0b0401;
+    align-items: center;
+    display: flex;
+    justify-content: space-between; 
+}
+.topNavBar img{
+    display: block;
+    padding-left: 40px;
+    width: 35px;
+    height: 35px;
+}
+.topNavBar li{
+    float:left;
+    display: block;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 13px;
+    font-family:'poppins';
+}
+
+.topNavBar li:hover {
+    background-color:#ffcc2a;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .selectLiClass{
+    background-color:#ffcc2a;
+    color: black !important;
+    border-radius: 10px;
+  }
+
+  .navBarTitle{
+    padding-left: 5px;
+    color: #ffcc2a;
+    font-family: 'poppins';
+    font-size: 13px;
+  }
