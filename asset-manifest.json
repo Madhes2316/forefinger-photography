@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/forefinger-photography/static/css/main.9bddf432.css",
-    "main.js": "/forefinger-photography/static/js/main.f8c3d6e5.js",
+    "main.js": "/forefinger-photography/static/js/main.c3244c3a.js",
     "static/js/453.b90a6cc9.chunk.js": "/forefinger-photography/static/js/453.b90a6cc9.chunk.js",
     "static/media/preWedding2.jpg": "/forefinger-photography/static/media/preWedding2.e578846f1d1fa0442efa.jpg",
     "static/media/babyShower.jpg": "/forefinger-photography/static/media/babyShower.50b3f28efc1a25674889.jpg",
@@ -43,11 +43,11 @@
     "static/media/favicon.jpg": "/forefinger-photography/static/media/favicon.ad3bc91db79b74b1800e.jpg",
     "index.html": "/forefinger-photography/index.html",
     "main.9bddf432.css.map": "/forefinger-photography/static/css/main.9bddf432.css.map",
-    "main.f8c3d6e5.js.map": "/forefinger-photography/static/js/main.f8c3d6e5.js.map",
+    "main.c3244c3a.js.map": "/forefinger-photography/static/js/main.c3244c3a.js.map",
     "453.b90a6cc9.chunk.js.map": "/forefinger-photography/static/js/453.b90a6cc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bddf432.css",
-    "static/js/main.f8c3d6e5.js"
+    "static/js/main.c3244c3a.js"
   ]
 }
